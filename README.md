@@ -9,7 +9,7 @@ Créer une application qui permet de lire une track depuis Deezer
 ### Server HTTP
 
 * Installer le module http-server: ```npm install http-server -g```
-* Démarrer le serveur de l'application avec la commande "http-server ./app"
+* Démarrer le serveur de l'application avec la commande ```http-server ./app```
 
 ### Dépendances
 
